@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="24" cy="24" r="22" fill="#d1684e" stroke="#FFFFFF" stroke-width="0.5" />
+  
+  <!-- Inner Circle Ring -->
+  <circle cx="24" cy="24" r="12" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.8" />
+  
+  <!-- Curved Line Element - Simplified representation of the animation -->
+  <path d="M24 12 Q 34 17, 36 24 Q 34 31, 24 36 Q 14 31, 12 24 Q 14 17, 24 12" 
+        fill="none" 
+        stroke="#FFFFFF" 
+        stroke-width="1.5" 
+        stroke-opacity="0.9" />
+        
+  <!-- Center point -->
+  <circle cx="24" cy="24" r="1.5" fill="#FFFFFF" fill-opacity="0.9" />
+</svg> 
